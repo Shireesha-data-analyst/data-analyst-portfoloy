@@ -1,2 +1,2 @@
-# data-analyst-portfoloy
-my data analyst projects
+# DATA-ANALYST-PORTFOLIO
+MY DATA ANLYST PROJECTS USING SQL,POWER BI,PYTHON AND EXCEL
